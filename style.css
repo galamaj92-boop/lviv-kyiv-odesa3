@@ -1,0 +1,58 @@
+body {
+    font-family: sans-s;
+ background-color: rgb(240, 210, 255);
+
+}
+
+ nav a {
+border: 3px solid black;
+margin:10px  9px  10px  9px ;
+padding:6px ;
+color: rgb(108, 66, 4);
+font-size: 20px;
+background-color: rgb(238, 224, 191);
+border-radius:15px ;
+
+ }
+
+
+.lviv {
+color: rgb(59, 31, 15);
+background-color: rgb(254, 185, 151);
+border-radius:10px  ;
+}
+
+.kyiv {
+color: rgb(69, 42, 0);
+background-color: rgb(255, 196, 120);
+border-radius:10px  ;
+}
+
+nav a:hover {
+box-shadow:3px 5px 10px 0px rgb(84, 7, 108) ;
+font-size:25px ;
+
+}
+
+
+.odesa {
+color: rgb(0, 19, 61);
+background-color: rgb(187, 187, 255);
+border-radius:10px  ;
+}
+
+img:hover{
+box-shadow:3px 5px 10px 0px rgb(47, 0, 202) ;
+
+}
+
+.ulia {
+color: rgb(69, 0, 40);
+background-color: rgb(255, 150, 227);
+border-radius:15px  ;    
+}
+
+header h1{
+text-align:center ;
+
+}
